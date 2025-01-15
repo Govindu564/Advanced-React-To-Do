@@ -1,0 +1,22 @@
+.container{
+  align-items: center;
+  text-align: center;
+  margin-top: 230px;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border: none;
+  border-radius: 15px;
+}
+
+button{
+  margin-left: 4px;
+  margin-right: 2px; 
+}
+
+input{
+  border: none;
+  border-radius: 5px;
+  height: 100%;
+}
+
