@@ -1,0 +1,40 @@
+
+.logout-button {
+    width: 250px; 
+    background-color: #ff4d4d; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+  }
+  
+  .logout-button:hover {
+    background-color: #e60000; 
+  }
+  
+  
+  .pass-box {
+    width: 364px;
+    height: auto;
+    border-radius: 10px;
+    padding: 15px 10px;
+    border: 1px solid #3d3d3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px; 
+    margin-top: 100px;
+  }
+  
+
+  .welcome-text {
+    color: #ffff00;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
